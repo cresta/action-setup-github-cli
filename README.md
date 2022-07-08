@@ -7,5 +7,5 @@ have the CLI installed already.
 Add a step like this
 ```
       - name: Install github CLI
-        uses: cresta/action-setup-github-cli
+        uses: cresta/action-setup-github-cli@v1
 ```
